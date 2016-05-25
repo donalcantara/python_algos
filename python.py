@@ -21,3 +21,10 @@
 # for x in a:
 # 	answer += x
 # print answer/len(a)
+
+# print out numbers 1-2000 and if they're odd or even
+for x in range(2000):
+	if x % 2 == 0:
+		print "The number " + str(x) + " is an even number!"
+	else:
+		print "The number " + str(x) + " is an odd number!"

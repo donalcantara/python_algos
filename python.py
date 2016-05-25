@@ -9,8 +9,15 @@
 # 	x += 5
 
 #print a sum of all the values in the list
-a = [1, 2, 5, 10, 255, 3]
-answer = 0
-for x in a:
-	answer += x
-print answer
+# a = [1, 2, 5, 10, 255, 3]
+# answer = 0
+# for x in a:
+# 	answer += x
+# print answer
+
+# print the average of the list
+# a = [1, 2, 5, 10, 255, 3]
+# answer = 0
+# for x in a:
+# 	answer += x
+# print answer/len(a)
